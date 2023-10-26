@@ -1,3 +1,0 @@
-The flight delay prediction machine learning project is part of the Machine Learning with Python coursework.
-This project aims to predict the flights that are likely to be delayed based on the 2019 flight data.
-This is a classification problem—binary in nature, i.e., a flight either delays or arrives on time.
